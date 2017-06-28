@@ -1,6 +1,4 @@
-# bibuilder
-
-## BI Builder for SQL Server
+# BI Builder for SQL Server
 
 BI Builder is a pure T-SQL application for MSSQL data warehouse developers: It generates staging and dimension tables as well as ETL stored procedures.
 
